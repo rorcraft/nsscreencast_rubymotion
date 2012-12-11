@@ -1,0 +1,29 @@
+imagedata = NSData.alloc.initWithContentsOfURL(url)
+@wallpaper_view
+app
+UIScreen.mainScreen
+imagedata
+image = UIImage.alloc.initWithData(imagedata)
+image
+self
+app = UIApplication.sharedApplication
+app.delegate
+repl delegate
+repl app.delegate
+self
+instance_variables
+repl @window
+instance_variables
+view
+self.view
+self.rootViewController
+repl self.rootViewController
+instance_variables
+@wallpaper_view
+@wallpaper_view.image
+@wallpaper_view.image = image
+url = NSURL.URLWithString("http://www.fantasywallpapers.in/bulkupload/Factasy/Others/Fantasy-01.jpg")
+imagedata = NSData.alloc.initWithContentsOfURL(url)
+imagedata
+quit
+exit
